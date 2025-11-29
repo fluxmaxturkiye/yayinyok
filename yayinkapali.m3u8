@@ -1,7 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:3
+#EXT-X-TARGETDURATION:15
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:3.033333,
+#EXTINF:13.866667,
 https://github.com/fluxmaxturkiye/yayinyok/raw/refs/heads/main/yayinkapali0.ts
+#EXTINF:6.933333,
+https://github.com/fluxmaxturkiye/yayinyok/raw/refs/heads/main/yayinkapali1.ts
+#EXTINF:15.233333,
+https://github.com/fluxmaxturkiye/yayinyok/raw/refs/heads/main/yayinkapali2.ts
 #EXT-X-ENDLIST
+
